@@ -1,0 +1,8 @@
+mysql
+mysql-connector-python
+selenium
+pika
+flask
+API
+wordpress-api
+python-wordpress-xmlrpc
